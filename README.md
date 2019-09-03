@@ -9,12 +9,12 @@ A puchase summary provides users with the summary of the order, details and opti
 
 
 ## Used Tech Stack
-* JS Frameworks: ReactJS, Redux, React-router, React-saga, Typescript, ECMAScript6 
-* CSS Preprocessor: Less, CSS flexbox
+* JS Frameworks: ReactJS, ECMAScript6 
+* CSS flexbox
 * Version Control/Git: git, github.com
 * Responsive Design: tested on desktop enviroment (Chrome, Firefox), GalaxyS5, IPhone6/7/8
-* Build and automation Tools: Webpack
+* Build and automation Tools: react-scripts
 * Unit testing: Jest, Enzyme (not included)
 * Lints: eslint, tslint
-* Other technologies: BEM methodology, Restful API
-* File formats: Jsx, ts, J
+* Other technologies: BEM methodology
+* File formats: Jsx, Js, css
