@@ -18,7 +18,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "react-scripts start",
+    "start": "open-cli http://127.0.0.1:3000/ & react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"

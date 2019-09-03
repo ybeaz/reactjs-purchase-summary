@@ -1,6 +1,18 @@
 .App {
   font-family: sans-serif;
-  text-align: center;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-direction: row;
+  flex-direction: column;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+.App__title {
+  padding-bottom: 2rem;
+  font-size: 2rem;
 }
 
 .half {

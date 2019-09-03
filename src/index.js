@@ -42,6 +42,7 @@ const props = {
 function App() {
   return (
     <div className="App">
+      <div className='App__title'>Puchase summary</div>
       <PurchaseSummaryContainer {...props} />
     </div>
   );
