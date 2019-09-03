@@ -5,7 +5,7 @@
 A puchase summary provides users with the summary of the order, details and options for applying promo codes. Interactive design enables uses to apply promos and see  purchase calculation changes.
 
 ## Link to a working example
-[Demo of the prototype puchase summary](https://r1.userto.com/demo-reactjs-purchase-summary.html/)
+[Demo of the prototype puchase summary](https://r1.userto.com/demo-reactjs-purchase-summary.html)
 
 
 ## Used Tech Stack
